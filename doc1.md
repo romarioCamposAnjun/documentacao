@@ -1,3 +1,4 @@
-asdsaddas
-asdsda
-asdsda
+##### yarn 1.22.19
+##### npm 9.5.1
+##### node v18.14.2
+##### pm2 5.2.2
